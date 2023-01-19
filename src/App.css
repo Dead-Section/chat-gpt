@@ -1,0 +1,12 @@
+*{
+    box-szing: border-box;
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+
+}
+
+
+body{
+    background: var(--color-bg);
+}
