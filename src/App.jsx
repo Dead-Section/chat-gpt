@@ -6,7 +6,7 @@ import './App.css'
 function App(){
    return (
     <div className="App">   
-        <div classNmae="gradient__bg">
+        <div className="gradient__bg">
             <Navbar />
             <Header />
         </div>
