@@ -11,8 +11,6 @@ function Menu () {
             <p><a href="#blog">Library</a></p>
         </>
     )
-  
-    
 }
 
 
