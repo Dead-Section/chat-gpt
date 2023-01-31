@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^13.5.0",
     "modules": "^0.4.0",
     "node": "^19.4.0",
+    "node-modules": "^1.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
