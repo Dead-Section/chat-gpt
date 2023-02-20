@@ -10,19 +10,15 @@ function App(){
             <Navbar />
             <Header />
         </div>
-    </div>
-   )
-}  
-
-export default App;
-
-
-/* 
-        <Brand />
+        {/* <Brand />
         <WhatGPT3 />
         <Features />
         <Possibilty />
         <CTA />
         <Blog />
-        <Footer />
-*/
+        <Footer /> */}
+    </div>
+   )
+}  
+
+export default App;
