@@ -4,3 +4,6 @@ export { default as Footer } from "./footer/Footer" /* footer section*/
 export { default as Header } from "./header/Header" /* header section*/
 export { default as Possibilty } from "./possibilty/Possibilty" /* possibilty section*/
 export { default as WhatGPT3 } from "./whatGPT3/WhatGPT3" /* whatsGPT3 section*/
+
+
+// new sections
